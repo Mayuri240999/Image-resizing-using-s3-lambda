@@ -1,7 +1,7 @@
 # Seamless Image Resizing and Transfer system using aws services 
 
 ## Project Description:
-This project aims to develop an automated image processing and management system within the AWS environment. The primary objective is to simplify image handling by resizing images automatically and transferring them to a specified storage destination. Additionally, the system ensures stakeholders are kept informed through real-time notifications. Core AWS services, including Lambda, S3, and SNS, are utilized to seamlessly coordinate the workflow.
+This project aims to develop an automated image processing and management system within the AWS environment. The primary objective is to simplify image handling by resizing images automatically and transferring them to a specified storage destination. Additionally, the system ensures stakeholders are kept informed through real-time notifications. Core AWS services, including Lambda, S3, and SNS, are utilized to seamlessly coordinate the workflow. 
 
 ## Key Features:
 1. Automated Image Processing: Automatically resize and optimize images as soon as they are uploaded.
@@ -19,7 +19,7 @@ This project aims to develop an automated image processing and management system
 ![workingflow](https://github.com/user-attachments/assets/4a956672-3776-458e-a8b5-b94aa7e9e321)
 
 ## Steps to do :
-### Step 1 :
+### Step 1 :     
 ### Creating Source and Designation s3 Buckets :
 
 1. Navigate to the S3 Console.
